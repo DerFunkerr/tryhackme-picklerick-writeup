@@ -9,7 +9,7 @@ Der Raum umfasst verschiedene Sicherheits- und Pentest-Techniken wie:
 - **Command Injection**
 - **Reverse Shells** und **Privilege Escalation**
 
-### 📄 [Hier geht's zum vollständigen Writeup](./Pickle Rick.md)
+### 📄 [Hier geht's zum vollständigen Writeup](./Pickle-Rick.md)
 
 ---
 
