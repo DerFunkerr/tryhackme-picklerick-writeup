@@ -54,7 +54,7 @@ gobuster dir -u http://10.10.77.266 -w /usr/share/wordlists/dirbuster/directory-
 
 ```
 
-![[Pasted image 20250513220441.png]]
+[![](./screenshots/4.png)](./screenshots/4.png)
 
 Wir haben eine `/robots.txt` Datei, die ich mir anschaue:
 ![[Pasted image 20250513220823.png]]
