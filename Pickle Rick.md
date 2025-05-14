@@ -19,7 +19,7 @@ http://[ZIEL-IP]
 
 Nach dem ersten Aufruf der Webseite lohnt sich ein Blick in den **Quellcode**, um mögliche **versteckte Hinweise oder Entwicklerkommentare** zu entdecken.
 
-![[Pasted image 20250513212624.png]]
+[![](./screenshots/2.png)](./screenshots/2.png) 
 🔍 **Beobachtung:**
 Im HTML-Quellcode der Startseite befindet sich folgender Kommentar:
 
