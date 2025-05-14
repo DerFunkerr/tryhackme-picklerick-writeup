@@ -62,6 +62,7 @@ Wir haben eine `/robots.txt` Datei, die ich mir anschaue:
 
 "Wubbalubbadubdub", vielleicht ein Password?
 
+
 Wir haben ein `/login.php` Verzeichniss, wo ich reinschaue:
 
 [![](./screenshots/6.png)](./screenshots/6.png)
