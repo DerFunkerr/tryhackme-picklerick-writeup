@@ -57,6 +57,7 @@ gobuster dir -u http://10.10.77.266 -w /usr/share/wordlists/dirbuster/directory-
 [![](./screenshots/4.png)](./screenshots/4.png)
 
 Wir haben eine `/robots.txt` Datei, die ich mir anschaue:
+
 [![](./screenshots/5.png)](./screenshots/5.png)
 
 "Wubbalubbadubdub", vielleicht ein Password?
