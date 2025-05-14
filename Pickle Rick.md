@@ -13,7 +13,7 @@ Zuerst rufen wir die Webseite des Zielsystems im Browser auf, indem wir die vorg
 
 http://[ZIEL-IP]
 
-![](./Pasted image 20250513211409.png) 
+![](./pasted-image-20250513211409.png) 
 
 ## 🕵️‍♂️ Schritt 2: Analyse des Seitenquelltexts
 
