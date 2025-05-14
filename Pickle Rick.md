@@ -158,11 +158,11 @@ Ich erhielt erfolgreich eine Shell auf dem Zielsystem – **interaktiv und mit e
 
 Nachdem ich eine funktionierende Reverse Shell hatte, konnte ich endlich das Zielsystem direkt durchsuchen und die erste Zutat finden:
 
-![[Pasted image 20250513233048.png]]
+[![](./screenshots/15.png)](./screenshots/15.png)
 
 Und der Hinweis für die zweite Zutat ist unter der `clue.txt` zu finden:
 
-![[Pasted image 20250513233418.png]]
+[![](./screenshots/16.png)](./screenshots/16.png)
 
 Also habe ich mich im Dateisystem umgesehen und bin schnell im Home-Verzeichnis des Benutzers `rick` fündig geworden:
 
@@ -173,7 +173,7 @@ cd /home/rick
 
 ```
 
-![[Pasted image 20250513233914.png]]
+[![](./screenshots/17.png)](./screenshots/17.png)
 
 
 ## 🔍 Schritt 10: Prüfen von Sudo-Rechten
