@@ -4,8 +4,15 @@
 
 In dieser *Rick & Morty*-inspirierten TryHackMe-Herausforderung ist es dein Ziel, einen verwundbaren Webserver zu analysieren und auszunutzen, um **drei geheime Zutaten** zu finden. Mit diesen kann Rick seinen Zaubertrank brauen, um sich von einer **Gurke wieder in einen Menschen zu verwandeln**.
 
+## 🧰 Verwendete Tools
 
+- 🖥️ **Browser + Developer Tools** – Quelltextanalyse, Auffinden von Hinweisen
+- 🔍 **nmap** – Port- und Dienstscan
+- 🗂️ **gobuster** – Directory-Bruteforce zum Auffinden versteckter Pfade
+- 🔌 **netcat (nc)** – Listener für eingehende Reverse Shells
+- 🐍 **python3** – Ausführung der Reverse Shell vom Zielsystem aus
 # 🔎 Schritt 1: Webseite aufrufen
+
 
 ### 🔗 Zugriff auf die Ziel-Webseite
 
@@ -210,10 +217,3 @@ Im Rahmen der "Pickle Rick"-Challenge auf TryHackMe konnte ich erfolgreich alle 
 [![](./screenshots/20.png)](./screenshots/20.png)
 ---
 
-## 🧰 Verwendete Tools
-
-- 🖥️ **Browser + Developer Tools** – Quelltextanalyse, Auffinden von Hinweisen
-- 🔍 **nmap** – Port- und Dienstscan
-- 🗂️ **gobuster** – Directory-Bruteforce zum Auffinden versteckter Pfade
-- 🔌 **netcat (nc)** – Listener für eingehende Reverse Shells
-- 🐍 **python3** – Ausführung der Reverse Shell vom Zielsystem aus
