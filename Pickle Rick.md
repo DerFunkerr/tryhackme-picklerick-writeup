@@ -91,7 +91,7 @@ Nach dem erfolgreichen Login wurde ich auf eine neue Seite weitergeleitet, auf d
 
 🧪 **Erster Test:**
 Ich begann mit einfachen Befehlen wie `ls`, `whoami` oder `pwd`, um das Verhalten zu analysieren. Die Ausgaben funktionierten – es handelt sich eindeutig um eine echte Kommandozeilenausführung.
-Einige wichtige Befehle waren jedoch offenbar **geblockt** 
+Einige wichtige Befehle waren jedoch offenbar **geblockt**: 
 
 [![](./screenshots/8.png)](./screenshots/8.png)
 
