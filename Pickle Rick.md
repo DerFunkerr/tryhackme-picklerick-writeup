@@ -184,7 +184,7 @@ Um herauszufinden, ob ich bestimmte Befehle mit `sudo` – also als Superuser �
 sudo -l
 ```
 
-![[Pasted image 20250513234321.png]]
+[![](./screenshots/18.png)](./screenshots/18.png)
 
 ## 🚀 Schritt 12: Root-Zugriff erlangen
 
@@ -201,13 +201,13 @@ cd /root
 ls
 ```
 
-![[Pasted image 20250513234825.png]]
+[![](./screenshots/19.png)](./screenshots/19.png)
 
 ## ✅ Ergebnis & Abschluss
 
 Im Rahmen der "Pickle Rick"-Challenge auf TryHackMe konnte ich erfolgreich alle drei versteckten **Zutaten (Flags)** finden, die Rick benötigt, um seinen Zaubertrank zu brauen:
 
-![[Pasted image 20250513235137.png]]
+[![](./screenshots/20.png)](./screenshots/20.png)
 ---
 
 ## 🧰 Verwendete Tools
