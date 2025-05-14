@@ -81,6 +81,7 @@ Zunächst war unklar, welche Zugangsdaten für die Login-Seite benötigt werden.
 
 ✅ **Ergebnis:**
 Mit dieser Kombination konnte ich mich **erfolgreich anmelden** und erhielt Zugriff auf ein neues Interface.
+
 [![](./screenshots/7.png)](./screenshots/7.png)
 
 
