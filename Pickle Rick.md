@@ -115,7 +115,7 @@ python -c "print('hello')"
 
 ```
 
-![[Pasted image 20250513225502.png]]❌ Ergebnis: Kein Output – der Befehl scheint blockiert oder `python` ist nicht vorhanden.
+[![](./screenshots/10.png)](./screenshots/10.png)❌ Ergebnis: Kein Output – der Befehl scheint blockiert oder `python` ist nicht vorhanden.
 
 Daraufhin probierte ich:
 
@@ -123,7 +123,7 @@ Daraufhin probierte ich:
 python3 -c "print('hello')"
 ```
 
-![[Pasted image 20250513225837.png]]
+[![](./screenshots/11.png)](./screenshots/11.png)
 ✅ Ergebnis: Funktioniert – das System hat also **Python 3 installiert**.
 
 💡 **Schlussfolgerung:**  
