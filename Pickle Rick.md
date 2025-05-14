@@ -57,13 +57,13 @@ gobuster dir -u http://10.10.77.266 -w /usr/share/wordlists/dirbuster/directory-
 [![](./screenshots/4.png)](./screenshots/4.png)
 
 Wir haben eine `/robots.txt` Datei, die ich mir anschaue:
-![[Pasted image 20250513220823.png]]
+[![](./screenshots/5.png)](./screenshots/5.png)
 
 "Wubbalubbadubdub", vielleicht ein Password?
 
 Wir haben ein `/login.php` Verzeichniss, wo ich reinschaue:
 
-![[Pasted image 20250513221531.png]]
+[![](./screenshots/6.png)](./screenshots/6.png)
 
 Perfekt, ich habe die Login Page gefunden!
 
