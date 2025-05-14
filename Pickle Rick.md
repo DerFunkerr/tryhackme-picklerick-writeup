@@ -81,7 +81,7 @@ Zunächst war unklar, welche Zugangsdaten für die Login-Seite benötigt werden.
 
 ✅ **Ergebnis:**
 Mit dieser Kombination konnte ich mich **erfolgreich anmelden** und erhielt Zugriff auf ein neues Interface.
-![[Pasted image 20250513222722.png]]
+[![](./screenshots/7.png)](./screenshots/7.png)
 
 
 ## 💻 Schritt 6: Zugriff auf das Kommando-Panel & erste Tests
@@ -92,9 +92,9 @@ Nach dem erfolgreichen Login wurde ich auf eine neue Seite weitergeleitet, auf d
 Ich begann mit einfachen Befehlen wie `ls`, `whoami` oder `pwd`, um das Verhalten zu analysieren. Die Ausgaben funktionierten – es handelt sich eindeutig um eine echte Kommandozeilenausführung.
 Einige wichtige Befehle waren jedoch offenbar **geblockt** 
 
-![[Pasted image 20250513223546.png]]
+[![](./screenshots/8.png)](./screenshots/8.png)
 
-![[Pasted image 20250513223510.png]]
+[![](./screenshots/9.png)](./screenshots/9.png)
 
 🔍 **Interpretation:**
 Das Web-Interface scheint gewisse Kommandos zu filtern oder einzuschränken – vermutlich per Blacklist.
