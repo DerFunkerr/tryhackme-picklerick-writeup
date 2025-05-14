@@ -39,6 +39,7 @@ nmap -sC -sV -oN nmap_scan.txt [ZIEL-IP]
 ```
 
 [![](./screenshots/3.png)](./screenshots/3.png) 
+
 Der Server bietet SSH (Port 22) und HTTP (Port 80) an. Da Port 80 bereits durch die Webseite bekannt war, fokussiere ich mich weiterhin auf den Webserver – hier erwarte ich die erste Schwachstelle.
 
 
