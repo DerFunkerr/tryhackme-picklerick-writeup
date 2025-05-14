@@ -13,7 +13,7 @@ Zuerst rufen wir die Webseite des Zielsystems im Browser auf, indem wir die vorg
 
 http://[ZIEL-IP]
 
-![](./screenshots/1.png)](./screenshots/1.png) 
+![test](./screenshots/1.png)](./screenshots/1.png) 
 
 ## 🕵️‍♂️ Schritt 2: Analyse des Seitenquelltexts
 
